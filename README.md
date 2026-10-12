@@ -141,5 +141,4 @@ You can open several client windows at once to see the server handle multiple us
 ---
 
 ## 📄 License
-
-This project is open source. Add a `LICENSE` file (for example, [MIT](https://choosealicense.com/licenses/mit/)) to specify how others may use it.
+`LICENSE`  [MIT](https://choosealicense.com/licenses/mit/) to specify how others may use it.
